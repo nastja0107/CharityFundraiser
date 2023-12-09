@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a229066f.css",
+    "main.js": "/static/js/main.7df50ef2.js",
+    "static/js/496.9ad687f3.chunk.js": "/static/js/496.9ad687f3.chunk.js",
+    "static/media/alchemylogo.svg": "/static/media/alchemylogo.f670e5f2ab59e2996a272c05e04f4833.svg",
+    "index.html": "/index.html",
+    "main.a229066f.css.map": "/static/css/main.a229066f.css.map",
+    "main.7df50ef2.js.map": "/static/js/main.7df50ef2.js.map",
+    "496.9ad687f3.chunk.js.map": "/static/js/496.9ad687f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a229066f.css",
+    "static/js/main.7df50ef2.js"
+  ]
+}
